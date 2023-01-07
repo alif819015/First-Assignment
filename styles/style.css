@@ -1,0 +1,58 @@
+/* Header Section */
+.header {
+    background-image: url('/images/banner/banner3.png');
+    width: auto;
+    height: 700px;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 300px 150px 100px 850px;
+    
+}
+
+.header-title {
+    font-weight: 700px;
+    font-size: 40px;
+    color: wheat;
+    
+}
+
+.header-description {
+    color: wheat;
+}
+
+.btn-primary{
+    height: 40px;
+    width: 100px;
+background-color: white;
+border-radius: 5px;
+font-weight: 700;
+}
+
+/* Body Section 1 */
+.body {}
+
+.body-title {}
+
+.body-description {}
+
+.body ul {}
+
+.body ul li {}
+
+/* Body Section 2 */
+
+.body2 {}
+
+.body2-title {}
+
+.body2-description {}
+
+/* Footer Section */
+
+.foot {}
+
+.foot-title {}
+
+.foot-description {}
+
+.foot ul {}
