@@ -2,36 +2,57 @@
 .header {
     background-image: url('/images/banner/banner3.png');
     width: auto;
-    height: 700px;
+    height: 470px;
     background-repeat: no-repeat;
     text-align: right;
-    padding: 300px 150px 100px 850px;
-    
+    padding: 250px 150px 100px 850px;
+
 }
 
 .header-title {
-    font-weight: 700px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
     font-size: 40px;
     color: wheat;
-    
+
 }
 
 .header-description {
     color: wheat;
 }
 
-.btn-primary{
+.btn-primary {
     height: 40px;
     width: 100px;
-background-color: white;
-border-radius: 5px;
-font-weight: 700;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 700;
 }
 
 /* Body Section 1 */
-.body {}
+.body-img {
+    width: 469px;
+    height: 623px;
+    margin-top: 121px;
+    margin-left: 186px;
 
-.body-title {}
+}
+
+.body {
+    display: flex;
+
+}
+
+.body-ul-2 {
+    margin: 0 230px 0 75px;
+}
+
+.body-title {
+    margin-top: 370px;
+    margin-right: 100px;
+
+}
 
 .body-description {}
 
@@ -39,20 +60,94 @@ font-weight: 700;
 
 .body ul li {}
 
-/* Body Section 2 */
+/* education Section  */
 
-.body2 {}
+.education-fast-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
 
-.body2-title {}
+.education-container {
+    display: flex;
+    gap: 86px;
+    margin-left: 250px;
+}
 
-.body2-description {}
+.education-title {}
+
+.education-description {}
+
+.gardient {
+    width: 1000px;
+    height: 250px;
+    margin: 130px 150px 130px 160px;
+    background-image: url('/images/watch.png'), url('/images/gradient1.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+
+}
+
+.gardient h3 {
+    padding: 55px 550px 0 60px;
+    color: white;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.gardient button {
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-left: 60px;
+
+}
 
 /* Footer Section */
 
-.foot {}
+.foot {
+    background-color: black;
+    width: fit-content;
+    height: 577px;
+    padding: 80px 130px;
+    display: flex;
+}
 
-.foot-title {}
+.foot-title {
+    color: white;
+    /* margin-bottom: 16px; */
 
-.foot-description {}
+}
 
-.foot ul {}
+.foot-description {
+    color: white;
+    margin-right: 200px;
+}
+
+.foot h4 {
+    color: white;
+    margin-bottom: 31px;
+}
+
+.foot p {
+    color: white;
+    margin-bottom: 32px;
+}
+
+#email {
+    margin-bottom: 16px;
+    line-height: 21px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+
+}
