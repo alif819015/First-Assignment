@@ -1,0 +1,33 @@
+.players-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.players {
+  border: 2px solid blueviolet;
+  border-radius: 8px;
+  padding: 8px;
+  gap: 10px;
+}
+.players img {
+  width: 170px;
+  height: 200px;
+  border-radius: 8px;
+  display: block;
+  margin: auto;
+}
+.players h2 {
+ text-align: center; 
+ 
+}
+.players p {
+ margin-left: 8px; 
+ margin-right: 8px;
+ 
+}
+.btn-info{
+    background-color: blueviolet;
+    border-radius: 0 0 8px 8px;
+    width: 100%;
+    color: azure;
+}

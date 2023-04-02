@@ -1,0 +1,13 @@
+.player-Container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.list-Container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    margin: 50px;
+}
+.info-Container h2{
+  text-align: center;
+}

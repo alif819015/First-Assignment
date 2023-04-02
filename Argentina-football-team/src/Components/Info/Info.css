@@ -1,0 +1,15 @@
+.cart {
+  padding: 15px;
+  background-color: antiquewhite;
+  position: sticky;
+}
+
+.name{
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+.cart span{
+  color: azure;
+}

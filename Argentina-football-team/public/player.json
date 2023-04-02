@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lionel Messi", 
+        "born": "June 24, 1987 (age 35 years), Rosario, Argentina",
+        "currentTeams": "Paris Saint-Germain F.C. (#30 / Forward), Argentina national football team (#10 / Forward)",
+        "price": "5000",
+        "height": "1.69 m",
+        "img":"https://img.a.transfermarkt.technology/portrait/big/28003-1671435885.jpg?lm=1"
+    },
+    {
+        "name": "Ángel Fabián Di María", 
+        "born": "February 14, 1988 (age 35 years), Rosario, Argentina",
+        "currentTeams": "Juventus F.C. (#22 / Midfielder), Argentina national football team (#11 / Midfielder)",
+        "price": "4000",
+        "height": "1.8 m",
+        "img":"https://img.a.transfermarkt.technology/portrait/big/45320-1663576797.jpg?lm=1"
+    },
+    {
+        "name": "Paulo Exequiel Dybala", 
+        "born": "November 15, 1993 (age 29 years), Laguna Larga, Argentina",
+        "currentTeams": "A.S. Roma (#21 / Forward), Argentina national football team (#21 / Forward)",
+        "price": "3500",
+        "height": " 1.77 m",
+        "img":"https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRaL021DX9CU1jk5H1akG4Sdgn8KGsH6PCw-5q6jCNnA3Bc77YUjhZmfcG6d9pQtCUIz4We1WdKJTpK4Ek"
+    },
+    {
+        "name": "Emiliano Martínez", 
+        "born": "September 2, 1992 (age 30 years), Mar del Plata, Argentina",
+        "currentTeams": "Argentina national football team (#23 / Goalkeeper), Aston Villa F.C. (#1 / Goalkeeper)",
+        "price": "3000",
+        "height": "1.95 m",
+        "img":"https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTWr9kqqw6SJXPTb2Qv1Q2OprdWbtlc16bAHF2dN2-B-IYgOKu6qKzxy8RwwACLPRg0CHFZGWhyLFVcIqo"
+    },
+    {
+        "name": "Julián Álvarez", 
+        "born": "January 31, 2000 (age 23 years), Calchín, Argentina",
+        "currentTeams": "Manchester City F.C. (#19 / Forward), Argentina national football team (#27 / Forward)",
+        "price": "2700",
+        "height": "1.7 m",
+        "img":"https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTlEcCxG02r9VMOZTSInyCvrS0-J2_ckXCqEgv1t5nxNFUcnocQ1G0OVQ3NsG1YN1cvfa_oU9cNdHcLhpc"
+    },
+    {
+        "name": "Rodrigo Javier De Paul", 
+        "born": "May 24, 1994 (age 28 years), Sarandí, Argentina",
+        "currentTeams": " Argentina national football team (#7 / Midfielder), Atlético de Madrid (#5 / Midfielder)",
+        "price": "2500",
+        "height": "1.8 m",
+        "img":"https://getfootball.eu/wp-content/uploads/2022/12/argentina-v-australia-round-of-16-fifa-world-cup-qatar-2022-5-scaled.jpg"
+    }
+]

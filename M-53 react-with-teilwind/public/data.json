@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "FitFirst",
+    "location": "New York",
+    "price": 49.99,
+    "features": [
+      "24/7 access",
+      "Free weights",
+      "Cardio machines",
+      "Personal training available"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Gold's Gym",
+    "location": "Los Angeles",
+    "price": 59.99,
+    "features": [
+      "Group fitness classes",
+      "Sauna",
+      "Swimming pool",
+      "Childcare services"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "24 Hour Fitness",
+    "location": "Chicago",
+    "price": 39.99,
+    "features": [
+      "Limited hours",
+      "Basic equipment",
+      "No contract required"
+    ]
+  }
+]
